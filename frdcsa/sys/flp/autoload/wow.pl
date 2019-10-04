@@ -1,0 +1,1 @@
+useXInsteadOfY(duckDuckGo,google).
